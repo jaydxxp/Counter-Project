@@ -1,11 +1,11 @@
 # Counter-web-application
 A simple web application built with HTML, CSS, and JavaScript. This application features a counter with the following functionalities:
 
-* ### Increment/Decrement: Two buttons to increase or decrease the counter value.
-* ### Progress Bar: A visual progress bar that updates according to the counter value.
-* ### Undo/Redo: Buttons to undo and redo the last operations performed.
-* ### State Management: Ensures the counter value stays between 0 and 150.
-* ### Smooth Animations: The progress bar updates with smooth transitions.
+* Increment/Decrement: Two buttons to increase or decrease the counter value.
+* Progress Bar: A visual progress bar that updates according to the counter value.
+* Undo/Redo: Buttons to undo and redo the last operations performed.
+* State Management: Ensures the counter value stays between 0 and 150.
+* Smooth Animations: The progress bar updates with smooth transitions.
 
 ## Features
 ### 1.Counter:
