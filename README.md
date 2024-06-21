@@ -9,18 +9,18 @@ A simple web application built with HTML, CSS, and JavaScript. This application 
 
 ## Features
 ### 1.Counter:
-*Increment and decrement the counter value using buttons.
-*Counter value is restricted between 0 and 150.
+* Increment and decrement the counter value using buttons.
+* Counter value is restricted between 0 and 150.
 
 ### 2.Progress Bar:
-*Visually represents the counter value.
-*Smooth animation on progress bar updates.
+* Visually represents the counter value.
+* Smooth animation on progress bar updates.
 
 ### 3.Undo/Redo:
-*Undo the last operation.
-*Redo the undone operation.
+* Undo the last operation.
+* Redo the undone operation.
 
 ## Technologies Used
-*HTML
-*CSS
-*JavaScript
+* HTML
+* CSS
+* JavaScript
